@@ -1,47 +1,42 @@
-# Hola, soy Christian 👋
+# Hi, I'm Christian 👋
 
-**Conecto personas, procesos y tecnología para que el trabajo funcione mejor.**
+**I connect people, processes and technology to help teams work better.**
 
-Soy ingeniero en Mecatrónica y MBA. Mi experiencia reúne tecnología hospitalaria, implementación de sistemas, atención a clientes y colaboración con especialistas en software y automatización.
+I'm a Mechatronics Engineer and MBA graduate based in Mexico City, with LATAM experience in healthcare IT, enterprise implementations and customer-facing delivery.
 
-🌎 Ciudad de México · Experiencia en LATAM
+## Start here
 
-## Empieza por aquí
+### [Explore my projects and try the demos](https://krissortegal83.github.io/)
 
-### [👉 Visita mi sitio y prueba los proyectos](https://krissortegal83.github.io/)
+No sign-up. Sample data. Clear explanations, with source code available when you want a closer look.
 
-Sin registro y con datos de ejemplo. Puedes explorar las demos sin leer código.
-
-| Proyecto | Para qué sirve | Probar | Código |
+| Project | What it helps with | Try it | Explore the code |
 |---|---|---|---|
-| **Integración hospitalaria** | Conectar órdenes y estudios sin confundir pacientes. | [Abrir demo](https://krissortegal83.github.io/healthcare-integration-lab/) | [Ver proyecto](https://github.com/krissortegal83/healthcare-integration-lab) |
-| **Compras e inventarios** | Comprobar que lo pedido, recibido y facturado coincide. | [Abrir demo](https://krissortegal83.github.io/erp-process-lab/) | [Ver proyecto](https://github.com/krissortegal83/erp-process-lab) |
-| **Seguimiento de oportunidades** | Que una oportunidad no se pierda entre el primer contacto y la entrega. | [Abrir demo](https://krissortegal83.github.io/crm-workflow-automation/) | [Ver proyecto](https://github.com/krissortegal83/crm-workflow-automation) |
-| **Puesta en marcha** | Saber si un sistema está listo para empezar a usarse. | [Abrir demo](https://krissortegal83.github.io/enterprise-solutions-lab/implementation-readiness/) | [Ver proyecto](https://github.com/krissortegal83/enterprise-solutions-lab/tree/main/implementation-readiness) |
-| **Adopción y atención a clientes** | Identificar a los clientes que necesitan apoyo. | [Abrir demo](https://krissortegal83.github.io/enterprise-solutions-lab/customer-success-intelligence/) | [Ver proyecto](https://github.com/krissortegal83/enterprise-solutions-lab/tree/main/customer-success-intelligence) |
-| **Revisión de documentos** | Encontrar errores antes de aprobar información. | [Abrir demo](https://krissortegal83.github.io/enterprise-solutions-lab/document-workflow/) | [Ver proyecto](https://github.com/krissortegal83/enterprise-solutions-lab/tree/main/document-workflow) |
+| **Healthcare Integration** | Connect radiology orders and studies without mismatching patients. | [Open demo](https://krissortegal83.github.io/healthcare-integration-lab/) | [View project](https://github.com/krissortegal83/healthcare-integration-lab) |
+| **Purchasing & Inventory** | Check that ordered, received and invoiced quantities agree. | [Open demo](https://krissortegal83.github.io/erp-process-lab/) | [View project](https://github.com/krissortegal83/erp-process-lab) |
+| **Sales & Client Follow-up** | Keep opportunities moving from the first conversation to a clear handover. | [Open demo](https://krissortegal83.github.io/crm-workflow-automation/) | [View project](https://github.com/krissortegal83/crm-workflow-automation) |
+| **Implementation Readiness** | Know what still needs attention before a system goes live. | [Open demo](https://krissortegal83.github.io/enterprise-solutions-lab/implementation-readiness/) | [View project](https://github.com/krissortegal83/enterprise-solutions-lab/tree/main/implementation-readiness) |
+| **Customer Adoption & Success** | Identify customers who need support and choose a useful next step. | [Open demo](https://krissortegal83.github.io/enterprise-solutions-lab/customer-success-intelligence/) | [View project](https://github.com/krissortegal83/enterprise-solutions-lab/tree/main/customer-success-intelligence) |
+| **Document Review** | Find missing information and errors before approving a document. | [Open demo](https://krissortegal83.github.io/enterprise-solutions-lab/document-workflow/) | [View project](https://github.com/krissortegal83/enterprise-solutions-lab/tree/main/document-workflow) |
 
-## Qué puedo aportar
+## How I can help
 
-- Entender un proceso y convertir sus necesidades en un alcance claro.
-- Coordinar equipos, proveedores y usuarios durante una implementación.
-- Revisar cómo se conectan los sistemas y qué ocurre cuando algo falla.
-- Preparar pruebas, capacitación, seguimiento y entrega.
-- Conectar oportunidades comerciales con especialistas adecuados.
+- Turn business needs into a clear project scope.
+- Coordinate teams, vendors and users through an implementation.
+- Work through system connections, exceptions and recovery plans.
+- Prepare testing, training, customer follow-up and handover.
+- Connect commercial opportunities with the right specialists.
 
-Mi trayectoria incluye casi 13 años en AGFA HealthCare, servicios profesionales en Epicor y coordinación dentro de una implementación de Dynamics 365. Colaboro comercialmente con Browith, Consultoría Montag y Sperto Digital.
+My background includes nearly 13 years at AGFA HealthCare, professional services at Epicor and coordination within a Dynamics 365 implementation. I collaborate commercially with Browith, Consultoría Montag and Sperto Digital.
 
-## ¿Platicamos?
+## Let's talk
 
-[Mi experiencia completa y contacto en LinkedIn](https://www.linkedin.com/in/christian-ortega-lugo-7523a518b/) · [Catálogo y código](https://github.com/krissortegal83/enterprise-solutions-lab)
+[Professional background and contact on LinkedIn](https://www.linkedin.com/in/christian-ortega-lugo-7523a518b/) · [Project catalog and code](https://github.com/krissortegal83/enterprise-solutions-lab)
 
-Para oportunidades laborales, proyectos freelance o colaboraciones, cuéntame el reto y el resultado que buscas.
+For employment, consulting, freelance work or partnerships, tell me about the challenge and the outcome you want.
 
-<details>
-<summary>For English-speaking visitors</summary>
+## También podemos conversar en español
 
-I am a business and technology consultant based in Mexico City, with LATAM experience in healthcare IT, enterprise implementations and customer-facing delivery. Explore the interactive projects above, or contact me on LinkedIn to discuss a role, a project or a partnership.
+Soy Christian. Conecto personas, procesos y tecnología para mejorar la forma de trabajar. Puedes explorar mis proyectos desde el sitio y escribirme en español o en inglés para oportunidades laborales, proyectos o colaboraciones.
 
-</details>
-
-Los proyectos públicos son demostraciones independientes, creadas con ayuda de IA y datos ficticios. Cada caso explica su alcance y sus límites.
+The public projects are independent, AI-assisted demonstrations using fictional data. Each case explains its scope and limitations.
