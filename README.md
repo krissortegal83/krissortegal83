@@ -55,6 +55,6 @@ For employment, consulting, freelance work or partnerships, tell me about the ch
 
 ## También podemos conversar en español
 
-Soy Christian. Conecto personas, procesos y tecnología para mejorar la forma de trabajar. Conoce LURCOVA en https://lurcova.pages.dev/ y explora mis proyectos desde el portafolio y escribirme en español o en inglés para oportunidades laborales, proyectos o colaboraciones.
+Soy Christian. Conecto personas, procesos y tecnología para mejorar la forma de trabajar. Conoce LURCOVA en https://lurcova.pages.dev/ y explora mis proyectos desde el portafolio. Puedes escribirme en español o en inglés para oportunidades laborales, proyectos o colaboraciones.
 
 The public projects are independent, AI-assisted demonstrations using fictional data. Each case explains its scope and limitations.
