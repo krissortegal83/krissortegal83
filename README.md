@@ -4,7 +4,25 @@
 
 I'm a Mechatronics Engineer and MBA graduate based in Mexico City, with LATAM experience in healthcare IT, enterprise implementations and customer-facing delivery.
 
-## Start here
+## LURCOVA
+
+[**LURCOVA — Technology, business and opportunities**](https://lurcova.pages.dev/)
+
+LURCOVA connects business needs with technology, workflow automation and strategic collaboration. Explore the services and contact me to discuss your project.
+
+### Corporate Pillars · Pilares corporativos
+
+| | English | Español |
+|---|---|---|
+| L | Leadership | Liderazgo |
+| U | Understanding | Entendimiento |
+| R | Results | Resultados |
+| C | Connections | Conexiones estratégicas |
+| O | Opportunities | Oportunidades |
+| V | Value | Creación de valor |
+| A | Adaptability | Adaptabilidad |
+
+## Explore my independent portfolio
 
 ### [Explore my projects and try the demos](https://krissortegal83.github.io/)
 
@@ -37,6 +55,6 @@ For employment, consulting, freelance work or partnerships, tell me about the ch
 
 ## También podemos conversar en español
 
-Soy Christian. Conecto personas, procesos y tecnología para mejorar la forma de trabajar. Puedes explorar mis proyectos desde el sitio y escribirme en español o en inglés para oportunidades laborales, proyectos o colaboraciones.
+Soy Christian. Conecto personas, procesos y tecnología para mejorar la forma de trabajar. Conoce LURCOVA en https://lurcova.pages.dev/ y explora mis proyectos desde el portafolio y escribirme en español o en inglés para oportunidades laborales, proyectos o colaboraciones.
 
 The public projects are independent, AI-assisted demonstrations using fictional data. Each case explains its scope and limitations.
